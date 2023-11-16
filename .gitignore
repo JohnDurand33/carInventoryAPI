@@ -1,0 +1,6 @@
+# Git Ignore Rules 
+venv/
+.env
+__pycache__/
+*.pyc
+.vscode/
